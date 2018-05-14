@@ -15,6 +15,7 @@
 		CE43A19520A9724400F17416 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE43A19420A9724400F17416 /* main.m */; };
 		CE43A19F20A9724400F17416 /* TestGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE43A19E20A9724400F17416 /* TestGitTests.m */; };
 		CE43A1AA20A9724400F17416 /* TestGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE43A1A920A9724400F17416 /* TestGitUITests.m */; };
+		CE43A20120A9889400F17416 /* aaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = CE43A20020A9889400F17416 /* aaaa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		CE43A1A520A9724400F17416 /* TestGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE43A1A920A9724400F17416 /* TestGitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitUITests.m; sourceTree = "<group>"; };
 		CE43A1AB20A9724400F17416 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE43A1FF20A9889400F17416 /* aaaa.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
+		CE43A20020A9889400F17416 /* aaaa.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aaaa.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				CE43A18620A9724000F17416 /* AppDelegate.m */,
 				CE43A18820A9724000F17416 /* ViewController.h */,
 				CE43A18920A9724000F17416 /* ViewController.m */,
+				CE43A1FF20A9889400F17416 /* aaaa.h */,
+				CE43A20020A9889400F17416 /* aaaa.m */,
 				CE43A18B20A9724000F17416 /* Main.storyboard */,
 				CE43A18E20A9724400F17416 /* Assets.xcassets */,
 				CE43A19020A9724400F17416 /* LaunchScreen.storyboard */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE43A18A20A9724000F17416 /* ViewController.m in Sources */,
+				CE43A20120A9889400F17416 /* aaaa.m in Sources */,
 				CE43A19520A9724400F17416 /* main.m in Sources */,
 				CE43A18720A9724000F17416 /* AppDelegate.m in Sources */,
 			);
