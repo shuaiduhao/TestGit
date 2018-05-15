@@ -18,7 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-//    找冲突
+//    找突
+    // 默认在second 分支上 
 }
 
 - (void)didReceiveMemoryWarning {
