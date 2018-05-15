@@ -9,7 +9,9 @@
 #import "aaaa.h"
 
 @interface aaaa ()
-
+{
+    UIButton * ld ;
+}
 @end
 
 @implementation aaaa
