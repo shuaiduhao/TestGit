@@ -11,6 +11,7 @@
 @interface aaaa ()
 {
     UIButton * ld ;
+    UILabel * d ;
 }
 @end
 
